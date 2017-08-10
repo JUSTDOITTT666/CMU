@@ -4,3 +4,5 @@ http://www.cs.cmu.edu/afs/cs/academic/class/15213-f15/www/schedule.html
 
 
 http://csapp.cs.cmu.edu/3e/labs.html
+
+https://www.youtube.com/playlist?list=PLmBgoRqEQCWy58EIwLSWwMPfkwLOLRM5R
