@@ -5,3 +5,5 @@ https://www.youtube.com/channel/UCWnu2XymDtORV--qG2uG5eQ/videos?view=15&sort=dd&
 
 
 http://www.cs.cmu.edu/~15251/schedule.html
+
+http://www.cs.cmu.edu/~arielpro/15251f15/schedule.html
