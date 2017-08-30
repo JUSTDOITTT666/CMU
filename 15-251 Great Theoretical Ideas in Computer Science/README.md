@@ -10,3 +10,5 @@ http://www.cs.cmu.edu/~15251/schedule.html
 https://www.andrew.cmu.edu/course/15-251/calendar.html
 
 http://www.cs.cmu.edu/~aada/courses/15251s15/www/index.html
+
+http://www.cs.cmu.edu/~arielpro/15251f15/schedule.html
